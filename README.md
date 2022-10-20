@@ -1,3 +1,3 @@
 # FaceDetection_opencv
 
-proyect use openmp
+project use openmp
